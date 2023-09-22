@@ -1,0 +1,92 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+main {
+  display: block;
+  justify-content: center;
+  border: 2px solid;
+  background-color: rgb(255,255,255,0.3);
+  margin-top: 50px;
+  margin-bottom: 80px;
+  padding: 100px;
+  border-radius: 5px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+body {
+  background: url(../assets/Media/thimo-pedersen-dip9IIwUK6w-unsplash.jpg) no-repeat fixed;
+}
+
+h1 {
+  font-family: "Press Start 2P", cursive;
+  font-size: 1.8em;
+  text-align: center;
+  margin-top: 0px;
+}
+
+fieldset {
+  margin-top: 150px;
+}
+
+button {
+  font-family: "Press Start 2P", cursive;
+  padding: 10px;
+}
+
+button a {
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+
+#details {
+  visibility: hidden;
+}
+
+img {
+  width: 45%;
+}
+
+.resultat {
+  text-align: center;
+}
+
+select {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  
+}
+
+div {
+  text-align: center;
+  font-size: large;
+}
+
+#retour {
+  visibility: hidden;
+} 
+
+header {
+  background-color: rgb(255,255,255,0.3);
+  padding: 5px;
+}
+
+footer {
+  background-color: rgb(255,255,255,0.3);
+  position: fixed;
+  bottom:0 ;
+  width: 100%;
+ 
+}
+p {
+font-size: 1.1em ;
+padding: 10px;
+}
+
